@@ -4,7 +4,7 @@
 #* text=auto
 #*.js linguist-language=ASP
 #*.css linguist-language=JavaScript
-*.cshtml linguist-language=C#+Razor
+*.cshtml linguist-language=C#
 ###############################################################################
 # Set default behavior for command prompt diff.
 #
